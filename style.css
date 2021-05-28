@@ -1,0 +1,67 @@
+.uglytext{
+    border: 30px;
+    border-style:double;
+    border-color: purple;
+    padding-top: 20px;
+
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-decoration: underline;
+    color:salmon;
+}
+
+.uglyp{
+    color:red;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size:larger;
+}
+
+.uglyp:hover{
+    color:steelblue;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    border: 8px;
+    border-style: dotted;
+    padding-bottom: 30px;
+
+    font-size:large;
+}
+
+.uglybutton{
+    border: 3px;
+    border-color:black;
+    border-style:inset;
+    padding:15px;
+    background-color:tomato;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+}
+
+.uglybutton:hover{
+    border:4px;
+    border-style:outset;
+    padding:12px;
+    background-color:rgb(221, 72, 46);
+    font-family:cursive;
+}
+
+.uglybutton2{
+    background-color:yellow;
+}
+
+.uglybutton2:hover{
+    background-color:brown;
+}
+
+.navbar{
+    background-color: orange;
+    border: 1px;
+    padding:15px;
+}
+
+.badcolours{
+    background-color:plum;
+    color:powderblue;
+}
+
+.fatmarquee{
+    font-family: cursive;
+    font-size: 100px;
+}
